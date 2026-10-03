@@ -1,2 +1,6 @@
 # AtliQ-hardwares-Data-Analysis
-P &amp; L report generation and insights extraction on the products performance and other concerning metrics according to the perspective of FMCG domain
+## Dataset with over half a million rows of data to be precise it's 7 lakh+ rows   (simulating real industry dataset)
+Project consists of deep analysis of Atliq hardware's sales dataset and finance dataset , gross margin and profit/loss per product sold  
+Performed Sales Analytics and Finance Analytics    
+Project provides Insights on Profit and loss statments per market ,subzone,financial year,quarters(months),Region and division and also gives
+information about the performance of new products in the market
